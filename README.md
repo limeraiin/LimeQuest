@@ -1,5 +1,5 @@
 
-# What is LimeQuest
+# What is LimeQuest?
 LimeQuest is an open-source turn-based RPG framework written in c# with Unity3D. See the documentation for more details.
 
 ## Can I use it for my game project?
