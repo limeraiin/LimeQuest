@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b84b828b82113f44a3b9af20d307cbf, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  name: Skeleton
+  types:
+  - {fileID: 11400000, guid: 9a65911299dd07948a7adca8d92d295f, type: 2}
+  frontSprite: {fileID: -1951555698, guid: 72ba14d9d22fd2d4d864693ef74c399c, type: 3}
+  starterSkills:
+  - {fileID: 11400000, guid: e0f20c3f1260ac845bc5cae4e3e12841, type: 2}
+  bAttack: 15
+  bHealth: 120
+  AIMoveset: {fileID: 11400000, guid: 9233c2a9332a1aa47ab28ad392a878a9, type: 2}

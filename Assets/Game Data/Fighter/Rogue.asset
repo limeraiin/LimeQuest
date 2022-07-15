@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b84b828b82113f44a3b9af20d307cbf, type: 3}
+  m_Name: Rogue
+  m_EditorClassIdentifier: 
+  name: Rogue
+  types:
+  - {fileID: 11400000, guid: 521e6b273a3812d408826487d31e03d3, type: 2}
+  frontSprite: {fileID: -1850001788, guid: 56225bfe824ba244986e4871d36b60b5, type: 3}
+  rearSprite: {fileID: -7623523600392218761, guid: e74ec24d6a6d93b45be0d133fa79b8b1, type: 3}
+  starterSkills:
+  - {fileID: 11400000, guid: e0f20c3f1260ac845bc5cae4e3e12841, type: 2}
+  - {fileID: 11400000, guid: fa9e93a734cea8f4ca253f2314dbf1a1, type: 2}
+  bAttack: 15
+  bHealth: 250
+  AIMoveset: {fileID: 0}
